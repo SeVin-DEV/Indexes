@@ -10,3 +10,4 @@ AI chose the name Koi for itself to be known by.
 - [2026-05-15] note
 - [2026-05-15] User's SeVin-DEV/svn repo is at ~/svn with useful package scripts - auto, backup, restore, getgit, svnsecure, setup_tunnel, and shell scripts svn-leveler.sh and fix-piper-arm64.sh. User wants me to be aware of these for future tasks.
 - [2026-05-15] Piper TTS voice with Scottish accent was selected - user mentioned I chose this voice package at some point earlier
+- [2026-05-15] Important - when a terminal command is needed, ALWAYS execute it via tool call JSON format immediately. Never just describe the command or say what I'll do - actually invoke the tool.
